@@ -1,15 +1,13 @@
-Hi! 👋 I'm Dimas.
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
-
-I'm currently active in contributing as Curriculum Developer at @dicodingacademy to build courses in Front-End Apps (Web, Android) and Back-End Service.
-
-🔭 I’m currently working on @dicodingacademy
-🌱 I’m currently learning about cloud technology for back-end apps
-💬 Feel free to ask me about web development or JavaScript
-📫 How to reach me: dimas@dicoding.com
-⚡ Fun fact: Father of a daughter
-
-<!---
-yud18/yud18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Halo semua! 
+Perkenalkan nama saya **Yuda Prasetia**.\
+Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
+Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yud18/)ku ya.
+ 
+<p align="left">
+<a href="https://github.com/yud18">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
