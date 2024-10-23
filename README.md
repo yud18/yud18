@@ -1,7 +1,7 @@
 # Halo semua! 
 Perkenalkan nama saya **Yuda Prasetia**.\
 Saya seorang **Web Developer**\
-Asal Pekanbaru, Riau\
+Asal Duri, Bengkalis, Riau - Indonesia\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yudaprass18)ku ya.
  
 <p align="left">
